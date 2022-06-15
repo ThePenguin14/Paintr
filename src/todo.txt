@@ -1,0 +1,10 @@
+﻿Bugs
+	
+
+
+Features
+	layer opacity/blending
+	ruler rotation
+	ruler straight-edge drawing
+	ruler straight-edge exclude selecting
+	painter's tape
