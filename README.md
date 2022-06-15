@@ -6,6 +6,8 @@ Requires:
 - WinForms (& System.Drawing.Common)
 - NLua
 
-This is a bit of an old project and some things that may not work:
+This is a bit of an old project and some things that may not work/weren't finished:
 - XML-Defined brushes
 - Multi-region selection
+- Text
+- Flood Select/Fill
