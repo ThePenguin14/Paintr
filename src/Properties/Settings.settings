@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Audeditor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">43, 43, 43</Value>
+    </Setting>
+    <Setting Name="TextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="ButtonBackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">60, 60, 60</Value>
+    </Setting>
+    <Setting Name="TextUnsavedColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">190, 190, 190</Value>
+    </Setting>
+    <Setting Name="TextDisabledColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">50, 50, 50</Value>
+    </Setting>
+    <Setting Name="ButtonBorderColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">100, 100, 100</Value>
+    </Setting>
+    <Setting Name="ButtonMouseOverColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">110, 110, 110</Value>
+    </Setting>
+    <Setting Name="ButtonMouseDownColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">120, 120, 120</Value>
+    </Setting>
+    <Setting Name="WindowGripColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">55, 55, 55</Value>
+    </Setting>
+    <Setting Name="ContrastBackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 126, 200</Value>
+    </Setting>
+    <Setting Name="ContrastBackgroundDownColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 100, 175</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

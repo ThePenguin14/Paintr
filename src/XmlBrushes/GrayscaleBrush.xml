@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<brush>
+	<width></width>
+	<color></color>
+	<effects>
+		<effect>grayscale</effect>
+	</effects>
+	<id>base:grayscalebrush</id>
+	<name>
+		<default>Grayscale Brush</default>
+	</name>
+</brush>

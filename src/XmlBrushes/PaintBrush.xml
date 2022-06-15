@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<brush>
+	<width></width>
+	<color></color>
+	<id>base:paint</id>
+	<name>
+		<default>Paint XML Brush</default>
+	</name>
+</brush>
